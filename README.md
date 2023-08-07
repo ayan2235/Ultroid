@@ -39,7 +39,7 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://deploy.ultroid.tech](https://dashboard.heroku.com/new?template=https://github.com/ayan2235/Ultroid))
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]((https://dashboard.heroku.com/new?template=https://github.com/ayan2235/Ultroid))
 
 ## Deploy to Okteto
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
@@ -59,7 +59,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 ### Local Deploy - Traditional Method
 - Get your [Necessary Variables](#Necessary-Variables)
 - Clone the repository:    
-`git clone https://github.com/TeamUltroid/Ultroid.git`
+`git clone https://github.com/ayan2235/Ultroid.git`
 - Go to the cloned folder:    
 `cd Ultroid`
 - Create a virtual env:      
